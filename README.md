@@ -14,9 +14,10 @@ To find the optimal balance between cost and complexity, four different classifi
 
 * **Support Vector Machine (SVM-Kernel):** Tested for high-dimensional feature separation.
 
-* **💻 Implementation (Google Colab)**
+### 💻 Implementation (Google Colab)**
 
-* **💻 Colab NoteBooks (Support Vecotr Machine(SVM) Google Colab):** [SVM](https://colab.research.google.com/drive/10fJcw7sVng6WV9bbqK_dRhBNoIsJu2O-?usp=sharing)
+* **💻 Colab NoteBooks (Support Vecotr Machine(SVM) Google Colab):** [SVM-Kernel](https://colab.research.google.com/drive/10fJcw7sVng6WV9bbqK_dRhBNoIsJu2O-?usp=sharing)
 
+### Dataset
 * **📊 Dataset Source:** [Gender Recognition by Voice Dataset - Kaggle](https://www.kaggle.com/datasets/primaryobjects/voicegender)
 * **Dataset Note:**  It contains information about whether a person's voice belongs to a man or a woman, using statistical data contained in the voice.csv dataset.
